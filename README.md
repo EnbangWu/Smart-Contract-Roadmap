@@ -9,5 +9,6 @@ This is a personal smart contract developer roadmap, including textbooks, articl
 ## Blogs
 - [x] [Reentrancy Attack](https://gus-tavo-guim.medium.com/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)
 - [ ] [Analysis of the Dao exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
+- [ ] [PoWHC and Batch Transfer Overflow](https://medium.com/@ebanisadr/how-800k-evaporated-from-the-powh-coin-ponzi-scheme-overnight-1b025c33b530)
 
 ## Ethernut Challenges
