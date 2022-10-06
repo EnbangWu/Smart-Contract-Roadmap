@@ -12,10 +12,14 @@ This is a personal smart contract developer roadmap, including textbooks, articl
 - [x] [Reentrancy Attack](https://gus-tavo-guim.medium.com/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)
 - [ ] [Analysis of the Dao exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 - [ ] [PoWHC and Batch Transfer Overflow](https://medium.com/@ebanisadr/how-800k-evaporated-from-the-powh-coin-ponzi-scheme-overnight-1b025c33b530)
+- [ ] [Write Rust lints without forking Clippy](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy)
 
 ## Ethernut Challenges
 - [x] [Fallback](https://ethernaut.openzeppelin.com/level/0x9CB391dbcD447E645D6Cb55dE6ca23164130D008) <br> A nice and smooth intro to the Ethernaut challenges. Including useage of ethers,fallback functions and ownership. Takeaway: Never change ownership or something private in the fallback functions!
 - [x] [Fallout](https://ethernaut.openzeppelin.com/level/0x5732B2F88cbd19B6f01E3a96e9f0D90B917281E5) <br>A simple spelling error that could destroy the whole smartt contract! 
 - [ ] [CoinFlip](https://ethernaut.openzeppelin.com/level/0x4dF32584890A0026e56f7535d0f2C6486753624f)<br> A vulnerble smart contract that uses the self-defined random number generator. Should use the oracle to generate the randomness.
   
-## Dapps Development
+## Development
+
+## Published Articles
+[Blockchain,Lined list and Git](https://medium.com/@Enbang/blockchain-linked-lists-and-git-978f77f6acb8)
