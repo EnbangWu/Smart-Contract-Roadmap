@@ -1,5 +1,8 @@
 # Smart-Contract-Roadmap
-This is a personal smart contract developer roadmap, including textbooks, articles, videos and best practice examples.
+This is a personal smart contract developer roadmap, including textbooks, articles, videos and best practice examples. The goal of this roadmap is to help me understand smart contract development, cryptography, security best practices and gas optimization. I hope this roadmap can also help you.
+TODO:<br>
+- [ ] Develop state of the art smart contract security analysis tools.<br>
+- [ ] Perform secuirty assessment on published vulnerable smart contracts, provide security analysis reports and fix the vulnerabilities.<br>
 
 ## Books
 - [x] [mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
@@ -10,6 +13,7 @@ This is a personal smart contract developer roadmap, including textbooks, articl
 
 ## Blogs
 - [x] [Reentrancy Attack](https://gus-tavo-guim.medium.com/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)
+- [x] [Smart contract security audit](https://www.blockchain-council.org/blog/smart-contract-security-audit) <br> Introduced the process of smart contract security audit lifecycle, and the common vulnerabilities. <br>
 - [ ] [Analysis of the Dao exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 - [ ] [PoWHC and Batch Transfer Overflow](https://medium.com/@ebanisadr/how-800k-evaporated-from-the-powh-coin-ponzi-scheme-overnight-1b025c33b530)
 - [ ] [Write Rust lints without forking Clippy](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy)
