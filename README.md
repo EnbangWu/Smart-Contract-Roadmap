@@ -19,14 +19,15 @@ TODO:<br>
 - [x] [Smart contract security audit](https://www.blockchain-council.org/blog/smart-contract-security-audit) <br> Introduced the process of smart contract security audit lifecycle, and the common vulnerabilities. <br>
 - [x] [Analysis of the Dao exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 - [x] [Write Rust lints without forking Clippy](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy) <br> This is a tutorial of how to write a custom lint for Rust. How Dylint groups linters together an dprevent the drawbacks of Clippy. Ready to jump right in Dylint! <br>
-- [ ] [Deconstruct a solidity contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)<br>
-- [ ] [How to do smart contract security audit](https://blaize.tech/article-type/how-to-conduct-a-smart-contract-security-audit-of-your-project-and-why-this-is-important/)
+- [x] [How to do smart contract security audit](https://blaize.tech/article-type/how-to-conduct-a-smart-contract-security-audit-of-your-project-and-why-this-is-important/)
 
 ## Codebase reviewd
 
 
 ## EVM
 Contributed to this open source EVM project: [yet another EVM puzzle](https://github.com/mattaereal/yet-another-evm-puzzle/tree/main/puzzles)
+- [x] [Deconstruct a solidity contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)<br>Introduction of how a solidity smart contract is converted into opcodes
+- [x] [Creation VS runtime](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c/)<br> Talks about creation-time code and runtime code, creation time code will load function parameters, copy runtime code to memory, and then jump to runtime code.
 ## Ethernut Challenges 
 My solutions of Ethernaut Challenges: [solutions](https://github.com/EnbangWu/CTF-solutions/tree/main/Ethernaut)
 - [x] [Fallback](https://ethernaut.openzeppelin.com/level/0x9CB391dbcD447E645D6Cb55dE6ca23164130D008) <br> A nice and smooth intro to the Ethernaut challenges. Including useage of ethers,fallback functions and ownership. Takeaway: Never change ownership or something private in the fallback functions!
