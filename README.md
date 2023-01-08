@@ -37,6 +37,15 @@ My solutions of Ethernaut Challenges: [solutions](https://github.com/EnbangWu/CT
 - [x] [Token](https://ethernaut.openzeppelin.com/level/0x1ca9f1c518ec5681C2B7F97c7385C0164c3A22Fe)<br> arithmatic underflow
 - [x] [Delegation](https://ethernaut.openzeppelin.com/level/0x1ca9f1c518ec5681C2B7F97c7385C0164c3A22Fe)<br> Delegate call
 - [x] [Force](https://ethernaut.openzeppelin.com/level/0x1ca9f1c518ec5681C2B7F97c7385C0164c3A22Fe)<br> Force sending thorugh selfdestruct
+- [x] [Valut](https://ethernaut.openzeppelin.com/level/0x3A78EE8462BD2e31133de2B8f1f9CBD973D6eDd6)<br> Private variable is readble
+- [x] [King](https://ethernaut.openzeppelin.com/level/0x725595BA16E76ED1F6cC1e1b65A88365cC494824)<br> Always checking the invariant of the smart contract
+- [x] [Re-entrancy](https://ethernaut.openzeppelin.com/level/0x1ca9f1c518ec5681C2B7F97c7385C0164c3A22Fe)<br> Re-entrancy, use the pull payments if possible
+- [x] [Elevator](https://ethernaut.openzeppelin.com/level/0x4A151908Da311601D967a6fB9f8cFa5A3E88a251)<br> Don't trust unknowen contracts
+- [x] [Privacy](https://ethernaut.openzeppelin.com/level/0xcAac6e4994c2e21C5370528221c226D1076CfDAB)<br> Private variable is readble
+- [x] [GatekeeperOne](https://ethernaut.openzeppelin.com/level/0x2a2497aE349bCA901Fea458370Bd7dDa594D1D69)<br> gasleft() and typecasting
+- [x] [GatekeeperTwo](https://ethernaut.openzeppelin.com/level/0xf59112032D54862E199626F55cFad4F8a3b0Fce9)<br> creation time code and runtime code, bitwise operation
+- [x] [NaughtCoin](https://ethernaut.openzeppelin.com/level/0x36E92B2751F260D6a4749d7CA58247E7f8198284)<br>Inheritate the contract incorrecly
+- [x] [Preservation](https://ethernaut.openzeppelin.com/level/0x2754fA769d47ACdF1f6cDAa4B0A8Ca4eEba651eC)<br> Delegate call and storage layout
   
 
 ## Published Articles
