@@ -20,6 +20,8 @@ TODO:<br>
 - [x] [Analysis of the Dao exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 - [x] [Write Rust lints without forking Clippy](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy) <br> This is a tutorial of how to write a custom lint for Rust. How Dylint groups linters together an dprevent the drawbacks of Clippy. Ready to jump right in Dylint! <br>
 - [x] [How to do smart contract security audit](https://blaize.tech/article-type/how-to-conduct-a-smart-contract-security-audit-of-your-project-and-why-this-is-important/)
+- [x] [Secureum solidity 101](https://secureum.substack.com/p/solidity-101) Key-takeaways from solidity documentation
+- [x] [Secureum solidity 201](https://secureum.substack.com/p/solidity-201) same, but more advanced
 
 ## Codebase reviewd
 
