@@ -22,6 +22,7 @@ TODO:<br>
 - [x] [How to do smart contract security audit](https://blaize.tech/article-type/how-to-conduct-a-smart-contract-security-audit-of-your-project-and-why-this-is-important/)
 - [x] [Secureum solidity 101](https://secureum.substack.com/p/solidity-101) Key-takeaways from solidity documentation
 - [x] [Secureum solidity 201](https://secureum.substack.com/p/solidity-201) same, but more advanced
+- [x] [towards frictionless upgradeability](https://blog.openzeppelin.com/towards-frictionless-upgradeability/) 
 
 ## Codebase reviewd
 
