@@ -8,6 +8,7 @@ TODO:<br>
 
 ## Helpful combo 
 [Blockchain security & audit by consensys](https://consensys.net/diligence/)
+[openZepplin guides](https://blog.openzeppelin.com/guides/)
 ## Books
 - [x] [mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 <br>This book is a must read and it helps me clarify most fundemental concepts related to blockchain, Ehtereum, EVM. It also touches the creation of solidity and vyper. 5:star:/5:star:. <br>
