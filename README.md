@@ -32,6 +32,12 @@ TODO:<br>
 Contributed to this open source EVM project: [yet another EVM puzzle](https://github.com/mattaereal/yet-another-evm-puzzle/tree/main/puzzles)
 - [x] [Deconstruct a solidity contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)<br>Introduction of how a solidity smart contract is converted into opcodes
 - [x] [Creation VS runtime](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c/)<br> Talks about creation-time code and runtime code, creation time code will load function parameters, copy runtime code to memory, and then jump to runtime code.
+- [x] [Function selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iii-the-function-selector-6a9b6886ea49/)<br> Talks about how function selector is generated and used for calling different functions.
+-[x] [Function Wrapper](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed/)<br> Talks aobut how function parameters are passed to the function, jump to the function body, and return the result.
+- [x] [Function body](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-v-function-bodies-2d19d4bef8be/)<br> Talks about how function body is executed, including the stack, memory, storage, and opcodes.
+- [x] [Metadata] (https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef/)<br> Talks about how metadata is generated and used.
+
+
 ## Ethernut Challenges 
 My solutions of Ethernaut Challenges: [solutions](https://github.com/EnbangWu/CTF-solutions/tree/main/Ethernaut)
 - [x] [Fallback](https://ethernaut.openzeppelin.com/level/0x9CB391dbcD447E645D6Cb55dE6ca23164130D008) <br> A nice and smooth intro to the Ethernaut challenges. Including useage of ethers,fallback functions and ownership. Takeaway: Never change ownership or something private in the fallback functions!
